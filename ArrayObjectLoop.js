@@ -19,7 +19,7 @@ var objectArray = [
 
 for (var i = 0; i < objectArray.length; i++) { //Loop through the array
     var object = objectArray[i]; //Examine single object
-    if (object.condition) { //Evaluate condition
+    if (object.condition) { //Evaluate name
         object.newAttribute = "Added a new attribute"; //Add the new attribute to the object
     }
 }

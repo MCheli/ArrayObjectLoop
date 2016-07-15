@@ -1,0 +1,22 @@
+{
+  "name": "arrayobjectloop",
+  "version": "1.0.0",
+  "description": "ArrayObjectLoop",
+  "main": "ArrayObjectLoop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCheli/ArrayObjectLoop.git"
+  },
+  "author": "Mark Cheli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MCheli/ArrayObjectLoop/issues"
+  },
+  "homepage": "https://github.com/MCheli/ArrayObjectLoop#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
